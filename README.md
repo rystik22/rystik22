@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @rystik22
-- 🌱 I’m currently learning pi
-- 💞️ I’m looking to collaborate on a web development project
-- 📫 radinmayyeri@gmail.com
-- 😄 Pronouns: ranin
+- 🌱 I’m currently in universe of C
+- 📫 raneemmayyeri@gmail.com
 - ⚡ Fun fact: I am human
 
 <!---
