@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rystik22
-- 🌱 I’m currently in universe of C
+- 🌱 I’m currently in the universe of C
 - 📫 raneemmayyeri@gmail.com
 - ⚡ Fun fact: I am human
 
