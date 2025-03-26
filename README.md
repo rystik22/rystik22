@@ -15,7 +15,7 @@ A caffeinated and passionate problem solver, web developer, and a member of the 
 
 
 
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=rystik22&theme=dark)](https://git.io/streak-stats)
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=rystik22&theme=dark)]
 
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rystik22&layout=compact&theme=radical)
