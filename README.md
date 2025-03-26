@@ -8,10 +8,6 @@ A caffeinated and passionate problem solver, web developer, and a member of the 
 - 🤖 Implemented AI models in web applications and brought new ideas to life during hackathons.
 - 🧠 Constantly learning, evolving, and adding new skills to my toolbox.
 
-## 🏆 Notable Projects
-- **Fractol:** Explored the beauty of fractals with MiniLibX.
-- **Push_swap:** Crafted an algorithm to efficiently sort stacks.
-- **Hackathon Innovations:** Brought AI-powered trip planning and other creative ideas to reality.
 
   ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rystik22&theme=radical)
 
