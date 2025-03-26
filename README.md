@@ -14,9 +14,7 @@ A caffeinated and passionate problem solver, web developer, and a member of the 
 - **Hackathon Innovations:** Brought AI-powered trip planning and other creative ideas to reality.
 
 
-
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=rystik22&theme=dark)]
-
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rystik22)]
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rystik22&layout=compact&theme=radical)
     ![rystik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rystik22&show_icons=true&theme=radical)
