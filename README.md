@@ -11,7 +11,7 @@ A caffeinated and passionate problem solver, web developer, and a member of the 
 
   ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rystik22&theme=radical)
 
-    ![rystik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rystik22&show_icons=true&theme=radical)
+   ![rystik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rystik22&show_icons=true&theme=radical)
 
 
 
