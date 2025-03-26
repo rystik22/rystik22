@@ -12,7 +12,8 @@ A caffeinated and passionate problem solver, web developer, and a member of the 
 - **Fractol:** Explored the beauty of fractals with MiniLibX.
 - **Push_swap:** Crafted an algorithm to efficiently sort stacks.
 - **Hackathon Innovations:** Brought AI-powered trip planning and other creative ideas to reality.
-- [![rystik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rystik22)](https://github.com/rystik22/github-readme-stats)
+
+  [![rystik's GitHub stats](https://github-readme-stats.vercel.app/api?username=rystik22)](https://github.com/rystik22/github-readme-stats)
 
 ## 🌱 Interests
 - 📈 Exploring the world of startups and diving into business politics.
