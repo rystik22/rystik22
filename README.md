@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @rystik22
-- 🌱 I’m currently in the universe of C
-- 📫 raneemmayyeri@gmail.com
-- ⚡ Fun fact: I am human
+# Hi, I'm Raneem! 👋
 
-<!---
-rystik22/rystik22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A caffeinated and passionate problem solver, web developer, and a member of the 42 network. I'm on a journey to turn ideas into reality through clean, efficient code — striving to achieve dreams by developing new things and embracing lessons from life.
+
+## 🚀 About Me
+- 🌐 Web Developer specializing in **Node.js**, **Next.js**, and **TypeScript**.
+- 💻 Completed multiple web projects and tackled challenging **C projects** at 42.
+- 🤖 Implemented AI models in web applications and brought new ideas to life during hackathons.
+- 🧠 Constantly learning, evolving, and adding new skills to my toolbox.
+
+## 🏆 Notable Projects
+- **Fractol:** Explored the beauty of fractals with MiniLibX.
+- **Push_swap:** Crafted an algorithm to efficiently sort stacks.
+- **Hackathon Innovations:** Brought AI-powered trip planning and other creative ideas to reality.
+
+## 🌱 Interests
+- 📈 Exploring the world of startups and diving into business politics.
+- 🌍 Always curious about new technologies and eager to build meaningful projects.
+
+## 📬 Let's Connect
+- 📧 Email: [raneemmayyeri@gmail.com](mailto:raneemmayyeri@gmail.com)
+
+Let's build something amazing together!
