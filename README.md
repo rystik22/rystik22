@@ -1,4 +1,4 @@
-# Hi, I'm Raneem! 👋
+# Hola, wǒ shì Rystik! 👋
 
 A caffeinated and passionate problem solver, web developer, and a member of the 42 network. I'm on a journey to turn ideas into reality through clean, efficient code — striving to achieve dreams by developing new things and embracing lessons from life.
 
