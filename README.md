@@ -20,11 +20,12 @@ A caffeinated and passionate problem solver, web developer, and a member of the 
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rystik22&layout=compact&theme=dark)
 
-## 🌱 Interests
-- 📈 Exploring the world of startups and diving into business politics.
-- 🌍 Always curious about new technologies and eager to build meaningful projects.
+## 𓆝 Interests
+- ❦ Exploring the world of startups and diving into business politics.
+- 𖤍 Always curious about new technologies and eager to build meaningful projects.
 
-## 📬 Let's Connect
-- 📧 Email: [raneemmayyeri@gmail.com](mailto:raneemmayyeri@gmail.com)
+## ✎ᝰ. Let's Connect
+- ✉ Email: [raneemmayyeri@gmail.com](mailto:raneemmayyeri@gmail.com)
 
 Let's build something amazing together!
+___
