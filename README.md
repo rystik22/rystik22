@@ -25,8 +25,8 @@ A caffeinated and passionate problem solver, web developer, and a member of the 
 - 𖤍 Always curious about new technologies and eager to build meaningful projects.
 
 ## ✎ᝰ. Let's Connect
+- 🌐 Website: [radinm.com](https://radinm.com)
 - ✉ Email: [raneemmayyeri@gmail.com](mailto:raneemmayyeri@gmail.com)
-- radinm.com
 
 Let's build something amazing together!
 ___
