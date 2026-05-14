@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:a371f7,100:f78166&height=180&section=header&text=Rystik&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Hola%20%C2%B7%20%E4%BD%A0%E5%A5%BD%20%C2%B7%20%D9%85%D8%B1%D8%AD%D8%A8%D8%A7&descAlignY=58&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=440&lines=Web+Developer+🌐;Node.js+%2F+Next.js+%2F+TypeScript;AI+Builder+🤖;Hackathon+Hacker+🔥;Always+Learning+💪" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=440&lines=Web+Developer+%F0%9F%8C%90;Node.js+%2F+Next.js+%2F+TypeScript;AI+Builder+%F0%9F%A4%96;Hackathon+Hacker+%F0%9F%94%A5;Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
 
 <br/>
 
@@ -45,11 +45,14 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rystik22&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=a371f7&currStreakLabel=e6edf3" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rystik22&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=7d8590" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rystik22&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=7d8590" height="130" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rystik22&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rystik22&theme=github-compact&bg_color=0d1117&color=58a6ff&line=a371f7&point=f78166&hide_border=true" width="100%" />
 </p>
 
 ---
