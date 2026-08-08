@@ -49,8 +49,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rystik22&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=rystik22&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=a371f7&currStreakLabel=e6edf3" height="150" alt="GitHub Streak" />
