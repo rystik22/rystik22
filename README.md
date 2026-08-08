@@ -54,8 +54,7 @@
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=rystik22&theme=dark&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=a371f7&currStreakLabel=e6edf3" height="150" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=rystik22&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=e6edf3" height="150" alt="GitHub Stats" />
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rystik22&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=e6edf3" height="150" alt="GitHub Stats" />
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rystik22&theme=github-compact&bg_color=0d1117&color=58a6ff&line=a371f7&point=f78166&hide_border=true" width="100%" alt="GitHub Activity Graph" />
