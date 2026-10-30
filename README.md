@@ -44,12 +44,11 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rystik22&show_icons=true&hide_border=false&border_color=21262d&border_radius=12&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=e6edf3" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rystik22&layout=compact&hide_border=false&border_color=21262d&border_radius=12&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" alt="Top languages" />
+<img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+<img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" />
 
-<img height="165" src="https://streak-stats.demolab.com/?user=rystik22&hide_border=false&border_radius=12&background=0d1117&border=21262d&ring=58a6ff&fire=a371f7&currStreakNum=e6edf3&currStreakLabel=58a6ff&sideNums=e6edf3&sideLabels=8b949e&dates=8b949e" alt="GitHub streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rystik22&bg_color=0d1117&color=58a6ff&line=a371f7&point=f78166&area=true&area_color=a371f7&hide_border=true" alt="Contribution graph" />
+<img height="170" src="https://streak-stats.demolab.com/?user=rystik22&hide_border=false&border_radius=12&background=0d1117&border=21262d&ring=58a6ff&fire=a371f7&currStreakNum=e6edf3&currStreakLabel=58a6ff&sideNums=e6edf3&sideLabels=8b949e&dates=8b949e" alt="GitHub streak" />
+<img height="170" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
 
 </div>
 
